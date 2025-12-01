@@ -26,7 +26,7 @@ Clone the repository:
 git clone https://github.com/Andrey-McLennan7/Axios-Practice.git
 cd Axios-Practice
 npm install
-node insdex.js (or nodemon index.js if you have the nodemon package installed)
+node insdex.js  # or nodemon index.js if you have the nodemon package installed
 ```
 
 Then open your browser at: http://localhost:3000
