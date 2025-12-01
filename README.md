@@ -61,5 +61,6 @@ Potential upgrades for the project:
 - Add tests (unit/integration)
 
 ## Author
-Andrey McLennan
-GitHub: Andrey-McLennan7
+- Andrey McLennan
+- GitHub: Andrey-McLennan7
+- Origin: https://www.udemy.com/share/101qYw3@JQoPdWI8M9_9gujSvhZ5BWrLBt_9lYzc_wtMF73qjNgVtKVe4dyd6onH84zDNiQXjw==/
