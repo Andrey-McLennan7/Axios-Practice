@@ -18,7 +18,7 @@ It demonstrates essential skills for modern web development, including asynchron
 - **CSS**
 - **Node.js**
 
-## 📝 Installation & Setup
+## Installation & Setup
 
 Clone the repository:
 
